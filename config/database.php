@@ -50,7 +50,10 @@ return [
             'database' => env('DB_DATABASE', 'APM'),
             'username' => env('DB_USERNAME', 'root'),
 
+
             'password' => env('DB_PASSWORD', '210705'),
+
+            'password' => env('DB_PASSWORD', 'Senati2025!'),
 
             'password' => env('DB_PASSWORD', 'Senati2025!'),
 
