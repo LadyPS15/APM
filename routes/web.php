@@ -64,8 +64,11 @@ Route::get('/resultado_scrum', function () {
 });
 
 
+// Ruta para Dashboard Practicantes
 
-
+Route::get('/dashboard', function () {
+    return view('practicante.dashboard');
+});
 
 
 
