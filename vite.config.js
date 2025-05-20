@@ -14,6 +14,7 @@ export default defineConfig({
                 'resources/css/form_tecnico.css',
                 'resources/css/form_metodologia.css',
                 'resources/css/terms.css',
+                
                 'resources/js/app.js'
             ],
             refresh: true,
