@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard Practicantes</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Instrument+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Instrument+Sans:wght@400;600&family=Inria+Sans:wght@400;700&display=swap" rel="stylesheet">
     @vite('resources/css/dashboard.css')
 </head>
 <body>
@@ -28,6 +28,7 @@
     </div>
 
     <header class="top-bar">
+        <div class="company-title">APM Inversiones ERL</div>
         <div class="user-info">
             <span class="user-name">Juan Lopez Perez -Scrum Master</span>
             <div class="user-avatar">JL</div>
