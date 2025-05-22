@@ -47,7 +47,7 @@ class Applicant extends Model
         return $this->belongsTo(ScrumRole::class);
     }
 
-   public function scrumEvaluation()
+    public function scrumEvaluation()
     {
         return $this->hasOne(ScrumEvaluation::class);
     }

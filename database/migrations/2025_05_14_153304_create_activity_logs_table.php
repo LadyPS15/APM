@@ -11,7 +11,7 @@ return new class extends Migration
      */
     public function up(): void
     {
-         Schema::create('activity_logs', function(Blueprint $table) {
+        Schema::create('activity_logs', function(Blueprint $table) {
             $table->id();
             $table->string('user_type', 20);
             $table->unsignedBigInteger('user_id');
