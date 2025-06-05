@@ -19,6 +19,7 @@ return new class extends Migration
             $table->integer('academic_cycle');
             $table->string('access_token', 150)->nullable()->unique();
             $table->unsignedBigInteger('specialization_id')->nullable();
+            $table->string('other_specialization')->nullable();
             $table->string('programming_languages')->nullable();
             $table->string('availability')->nullable();
             $table->unsignedBigInteger('schedule_id')->nullable();
