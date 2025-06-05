@@ -1,0 +1,68 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-DaIJStQg.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/dashboard.css": {
+    "file": "assets/dashboard-BS9ZKW-v.css",
+    "src": "resources/css/dashboard.css",
+    "isEntry": true
+  },
+  "resources/css/eva_oficial.css": {
+    "file": "assets/eva_oficial-DnKE5NLI.css",
+    "src": "resources/css/eva_oficial.css",
+    "isEntry": true
+  },
+  "resources/css/evaluacion.css": {
+    "file": "assets/evaluacion-Bd-TrgTu.css",
+    "src": "resources/css/evaluacion.css",
+    "isEntry": true
+  },
+  "resources/css/form.css": {
+    "file": "assets/form-I01z-yOP.css",
+    "src": "resources/css/form.css",
+    "isEntry": true
+  },
+  "resources/css/form_metodologia.css": {
+    "file": "assets/form_metodologia-SikduiGO.css",
+    "src": "resources/css/form_metodologia.css",
+    "isEntry": true
+  },
+  "resources/css/form_tecnico.css": {
+    "file": "assets/form_tecnico-BiGN8-Z0.css",
+    "src": "resources/css/form_tecnico.css",
+    "isEntry": true
+  },
+  "resources/css/index.css": {
+    "file": "assets/index-BRbmSaPx.css",
+    "src": "resources/css/index.css",
+    "isEntry": true
+  },
+  "resources/css/login.css": {
+    "file": "assets/login-jnbLlnq8.css",
+    "src": "resources/css/login.css",
+    "isEntry": true
+  },
+  "resources/css/resultados.css": {
+    "file": "assets/resultados-CpSwh23C.css",
+    "src": "resources/css/resultados.css",
+    "isEntry": true
+  },
+  "resources/css/resultalgen.css": {
+    "file": "assets/resultalgen--2dcCGtN.css",
+    "src": "resources/css/resultalgen.css",
+    "isEntry": true
+  },
+  "resources/css/terms.css": {
+    "file": "assets/terms-D35IIhcM.css",
+    "src": "resources/css/terms.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-T1DpEqax.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
